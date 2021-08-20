@@ -1,12 +1,15 @@
 # INDONESIAN-WOMEN-IN-TECH-The-Final-Project-Vampire-Terror-Game-
 This repository is used to store the final project for Indonesian Women in Tech (IWIT) program which is a part of Digital Talent Scholarships supported by Kominfo and Netacad.
-Game Title: Vampire Terror
-Group: Kelompok A - Kelas C
-Year: 2021
-Description: Vampire Terror Game is an educational game for teens and adults. In this game, we implement a Multiple Choice Question (MCQ) quiz model that is wrapped in an adventure story. The question bank used in this game is updateable and stored on Github, separated from the codes. This will make the game can be maintained and developed more easily. In the core process of the Vampire Terror game, we implement the random method to shuffle the order of the questions and answer options. In addition to that, 90% of the assets and graphic arts are created by our team.
-
+<br>
+<br><b>Game Title: Vampire Terror
+<br>Group: Kelompok A - Kelas C
+<br>Year: 2021
+<br>Description: Vampire Terror Game is an educational game for teens and adults. In this game, we implement a Multiple Choice Question (MCQ) quiz model that is wrapped in an adventure story. The question bank used in this game is updateable and stored on Github, separated from the codes. This will make the game can be maintained and developed more easily. In the core process of the Vampire Terror game, we implement the random method to shuffle the order of the questions and answer options. In addition to that, 90% of the assets and graphic arts are created by our team.<b>
+<br>
+<br>
 ####################### LIST OF ATTRIBUTIONS ###########################
-
+<br>
+<br>
 Small vampire icon: <div>Icons made by <a href="https://smashicons.com/" title="Smashicons">Smashicons</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
 
 paper scroll image: Old Paper Scroll via <a href="https://www.vecteezy.com/free-vector/old-paper-scroll">Old Paper Scroll Vectors by Vecteezy</a>
