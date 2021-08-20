@@ -1,7 +1,3 @@
-
-
-https://user-images.githubusercontent.com/66003005/130203568-d918423e-c6f3-4043-8c4e-32d1e32a9388.mp4
-
 # INDONESIAN-WOMEN-IN-TECH-The-Final-Project-Vampire-Terror-Game-
 This repository is used to store the final project for Indonesian Women in Tech (IWIT) program which is a part of Digital Talent Scholarships supported by Kominfo and Netacad.
 <br>
@@ -38,3 +34,4 @@ Sound 3: vampire sound effect https://soundjay.com/
 Sound 4: vampire sound effect quicksounds.com
 
 Check out the Demo:
+https://user-images.githubusercontent.com/66003005/130203568-d918423e-c6f3-4043-8c4e-32d1e32a9388.mp4
