@@ -4,7 +4,7 @@ This repository is used to store the final project for Indonesian Women in Tech 
 <br><b>Game Title: Vampire Terror
 <br>Group: Kelompok A - Kelas C
 <br>Year: 2021
-<br>Description: Vampire Terror Game is an educational game for teens and adults. In this game, we implement a Multiple Choice Question (MCQ) quiz model that is wrapped with an adventure story. The question bank used in this game is updateable and stored separately from the codes. This will make the game can be maintained and developed more easily. In the core process of the Vampire Terror game, we implement the random method to shuffle the order of the questions and answer options. In addition to that, 90% of the assets and graphic arts are created by our team.<b>
+<br>Description: Vampire Terror Game is an educational game for teens and adults. In this game, we implement a Multiple Choice Question (MCQ) quiz model that is wrapped with an adventure story. The question bank used in this game is updateable and stored separately from the codes. This will make the game can be maintained and updated more easily. In the core process of the Vampire Terror game, we employ a random method to shuffle the order of the questions and answer options. In addition to that, 90% of the assets and graphic arts are created by our team.<b>
 <br>
 <br>
 ####################### LIST OF ATTRIBUTIONS ###########################
