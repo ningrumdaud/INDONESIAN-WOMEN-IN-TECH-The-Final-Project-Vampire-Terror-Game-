@@ -911,7 +911,7 @@ def game_loop():
         print(status)
         pygame.display.update()
 
-
+######## CLOSING SCENE
 def closing_win():
     while True:
         for event in pygame.event.get():
@@ -936,7 +936,6 @@ def closing_win():
     pygame.display.flip()
     clock.tick(60)
 
-######## CLOSING SCENE
 def closing_lose():
     while True:
         for event in pygame.event.get():
